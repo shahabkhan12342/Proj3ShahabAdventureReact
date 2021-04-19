@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Proj3ShahabAdventureReact/static/css/main.496f81f3.chunk.css",
+    "main.js": "/Proj3ShahabAdventureReact/static/js/main.3333895f.chunk.js",
+    "main.js.map": "/Proj3ShahabAdventureReact/static/js/main.3333895f.chunk.js.map",
+    "runtime-main.js": "/Proj3ShahabAdventureReact/static/js/runtime-main.c05c4ce9.js",
+    "runtime-main.js.map": "/Proj3ShahabAdventureReact/static/js/runtime-main.c05c4ce9.js.map",
+    "static/js/2.6c04557a.chunk.js": "/Proj3ShahabAdventureReact/static/js/2.6c04557a.chunk.js",
+    "static/js/2.6c04557a.chunk.js.map": "/Proj3ShahabAdventureReact/static/js/2.6c04557a.chunk.js.map",
+    "static/js/3.b320d94e.chunk.js": "/Proj3ShahabAdventureReact/static/js/3.b320d94e.chunk.js",
+    "static/js/3.b320d94e.chunk.js.map": "/Proj3ShahabAdventureReact/static/js/3.b320d94e.chunk.js.map",
+    "index.html": "/Proj3ShahabAdventureReact/index.html",
+    "static/css/main.496f81f3.chunk.css.map": "/Proj3ShahabAdventureReact/static/css/main.496f81f3.chunk.css.map",
+    "static/js/2.6c04557a.chunk.js.LICENSE.txt": "/Proj3ShahabAdventureReact/static/js/2.6c04557a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Proj3ShahabAdventureReact/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05c4ce9.js",
+    "static/js/2.6c04557a.chunk.js",
+    "static/css/main.496f81f3.chunk.css",
+    "static/js/main.3333895f.chunk.js"
+  ]
+}
